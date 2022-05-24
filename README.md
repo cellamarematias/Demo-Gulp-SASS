@@ -1,6 +1,6 @@
 <h3 align="center">A demo for a Rock festival</h3>
 
-- 👨‍💻 You can see it here: [https://cellamarematias.github.io/demo-html-css/](https://cellamarematias.github.io/Front-Gulp-SASS/index.html)
+- 👨‍💻 You can see it here: [https://cellamarematias.github.io/demo-html-css/index.html](https://cellamarematias.github.io/Front-Gulp-SASS/index.html)
 
 - 📫 How to reach me **cellamarematias@gmail.com**
 
